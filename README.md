@@ -65,7 +65,24 @@ Software Components consists of:
 
 # UI Design
 
-
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/e67b98c2-6e5f-464e-b362-7be0f221aee3">
+ <img src="https://github.com/user-attachments/assets/f904864f-65a3-4a31-89a2-308707b38138">
+ <img src="https://github.com/user-attachments/assets/8f055ef9-002a-45d8-98a3-ca802ad53f31">
+ <img src="https://github.com/user-attachments/assets/97f6271c-d0b5-4558-b37d-4bd76da411bf">
+ <img src="https://github.com/user-attachments/assets/1b067199-562c-4907-958e-95e534100d49">
+ <img src="https://github.com/user-attachments/assets/b6c82041-43fc-49ea-b969-c58b56504077">
+ <img src="https://github.com/user-attachments/assets/06e28563-3767-48ea-8385-e38682f04292">
+ <img src="https://github.com/user-attachments/assets/40007e92-030c-462e-b599-bf9bd40d6436">
+ <img src="https://github.com/user-attachments/assets/fbc1bbd4-358c-489a-b0de-eb0dec10279c">
+ <img src="https://github.com/user-attachments/assets/d75622b5-97e8-4d13-a452-c93e958ff277">
+ <img src="https://github.com/user-attachments/assets/59295a22-7e1c-49fa-a3ec-637fd527bfb7">
+ <img src="https://github.com/user-attachments/assets/c9d0a727-9566-4286-8a71-5ed8a79e72cb">
+ <img src="https://github.com/user-attachments/assets/9433ad3e-43d3-45fd-b140-2c2879c76f21">
+ <img src="https://github.com/user-attachments/assets/a616eb91-a3dd-4a02-b054-d61b4538c004">
+ <img src="https://github.com/user-attachments/assets/1c0a4f60-ff94-4898-a875-74c44def3e73">
+ <img src="https://github.com/user-attachments/assets/aa7ff61d-310a-4391-a086-507737d2796d">
+</p>
 
 
 
