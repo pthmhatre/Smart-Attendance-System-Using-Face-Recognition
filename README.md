@@ -71,7 +71,7 @@ Software Components consists of:
  <img src="https://github.com/user-attachments/assets/9004006e-04e8-4f6a-88f5-85b6de53c326">
  <img src="https://github.com/user-attachments/assets/97f6271c-d0b5-4558-b37d-4bd76da411bf">
  <img src="https://github.com/user-attachments/assets/1b067199-562c-4907-958e-95e534100d49">
- <img src="https://github.com/user-attachments/assets/b6c82041-43fc-49ea-b969-c58b56504077">
+ <img src="https://github.com/user-attachments/assets/0d7021dd-a169-49a9-ad2a-f656523b0118">
  <img src="https://github.com/user-attachments/assets/06e28563-3767-48ea-8385-e38682f04292">
  <img src="https://github.com/user-attachments/assets/40007e92-030c-462e-b599-bf9bd40d6436">
  <img src="https://github.com/user-attachments/assets/fbc1bbd4-358c-489a-b0de-eb0dec10279c">
@@ -79,7 +79,7 @@ Software Components consists of:
  <img src="https://github.com/user-attachments/assets/59295a22-7e1c-49fa-a3ec-637fd527bfb7">
  <img src="https://github.com/user-attachments/assets/c9d0a727-9566-4286-8a71-5ed8a79e72cb">
  <img src="https://github.com/user-attachments/assets/9433ad3e-43d3-45fd-b140-2c2879c76f21">
- <img src="https://github.com/user-attachments/assets/a616eb91-a3dd-4a02-b054-d61b4538c004">
+ <img src="https://github.com/user-attachments/assets/e58a1aa8-d82b-410f-85ed-cc6a43784959">
  <img src="https://github.com/user-attachments/assets/1c0a4f60-ff94-4898-a875-74c44def3e73">
  <img src="https://github.com/user-attachments/assets/d37c71fd-d09a-4ef5-92a6-331b21df87a6">
 </p>
