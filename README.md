@@ -79,7 +79,7 @@ Software Components consists of:
  <img src="https://github.com/user-attachments/assets/59295a22-7e1c-49fa-a3ec-637fd527bfb7">
  <img src="https://github.com/user-attachments/assets/c9d0a727-9566-4286-8a71-5ed8a79e72cb">
  <img src="https://github.com/user-attachments/assets/9433ad3e-43d3-45fd-b140-2c2879c76f21">
- <img src="https://github.com/user-attachments/assets/e58a1aa8-d82b-410f-85ed-cc6a43784959">
+ <img src="https://github.com/user-attachments/assets/12f72db6-ce63-4216-b4c6-9d23232f4b75">
  <img src="https://github.com/user-attachments/assets/1c0a4f60-ff94-4898-a875-74c44def3e73">
  <img src="https://github.com/user-attachments/assets/d37c71fd-d09a-4ef5-92a6-331b21df87a6">
 </p>
